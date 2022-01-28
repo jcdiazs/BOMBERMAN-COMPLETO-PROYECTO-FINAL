@@ -1,0 +1,10 @@
+#pragma once
+
+enum Skin {
+	SKIN_JOSH,
+	SKIN_CLASSIC,
+	SKIN_TYLER,
+	SKIN_BRUNO,
+	SKIN_KING,
+	SKIN_JASS
+};
